@@ -1,0 +1,1 @@
+This project intends to provide a simplified way of providing input in your language of choice (targetting hindi in the first iteration) using your standard English keyboard. We will begin with the transliteration based on a custom encoding. We will in future mote on to provide a phonetic input for the language(s) which will provie suggestions to disambiguate.
